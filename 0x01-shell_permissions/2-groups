@@ -1,2 +1,2 @@
-chmod#!/bin/bash
-groups
+#!/bin/bash
+chmod groups
