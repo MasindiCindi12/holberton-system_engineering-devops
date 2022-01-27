@@ -1,1 +1,2 @@
-!#/bin/bash/ \n chmodsudo -u user "betty"
+#!/bin/bash
+whoami
