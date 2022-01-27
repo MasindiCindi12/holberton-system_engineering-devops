@@ -1,1 +1,2 @@
-!#/bin/bash/ \n chmod $USER
+#!/bin/bash
+whoami
