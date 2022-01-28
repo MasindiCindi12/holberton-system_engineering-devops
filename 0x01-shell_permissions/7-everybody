@@ -1,1 +1,2 @@
-e- #!/bin/bash \n chmod ug0+x tmp/hello
+#!/bin/bash
+chmod ug0+x tmp/hello
