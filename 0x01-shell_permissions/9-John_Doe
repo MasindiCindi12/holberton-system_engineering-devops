@@ -1,2 +1,2 @@
-e- #!/bin/bash \n chmod ls -l tmp/hello
-e- #!/bin/bash \n chmod ls -l tmp/hello
+#!/bin/bash 
+chmod ls -l tmp/hello
